@@ -1,0 +1,29 @@
+_repo: The-ABC-of-Cooking_45838
+_version: 0.1.0
+alternative_title:
+- The A B C of Cooking
+- The A-B-C of Cooking
+covers:
+- cover_type: archival
+  image_path: 45838-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Coit, Adelin Balch
+    alias: Coit, Adeline Balch
+    gutenberg_agent_id: '43483'
+    url: http://www.gutenberg.org/2009/agents/43483
+description: ''
+gutenberg_issued: '2014-05-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45838'
+  lccn: '17018183'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cooking, American'
+- !lcc 'TX'
+title: The ABC of Cooking
+url: http://www.gutenberg.org/ebooks/45838
